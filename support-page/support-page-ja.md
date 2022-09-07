@@ -3,7 +3,7 @@
 <img width="200" alt="image" src="https://i.imgur.com/wHCgQWO.png">
 
 ## どんなアプリ？
-- Twitterの詳細検索の各オプションを簡単に設定し、また管理するのアプリです。
+- Twitterの詳細検索の各オプションを簡単に設定し、また管理するアプリです。
 - 指定した条件から検索用のURLを作成し、それを開いたりクリップボードにコピーすることができます。
 
 <img width="300" alt="image" src="https://i.imgur.com/Fj8n5wu.jpg">
